@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamdi</h1>
-<h3 align="center">Full stack developer at <a href="https://codeo.com.tr/">Codeo<a/></h3>
+<h3 align="center">Full stack developer at <a href="http://cts.com.tr/">CTS Yazılım<a/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdidamar&label=Profile%20views&color=0e75b6&style=flat" alt="hamdidamar" /> </p>
 
-- 🔭 I’m currently working on [Autodesk Forge API](https://forge.autodesk.com/en/docs/)
-
-- 🌱 I’m currently learning **ReactJs,Flutter**
-
-- 📫 How to reach me **hamdi.damar@codeo.com.tr**
+- 📫 How to reach me **hamdi.damar@hotmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
