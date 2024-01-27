@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamdi</h1>
-<h3 align="center">Full stack developer at <a href="http://cts.com.tr/">CTS Yazılım<a/></h3>
+<h1 align="center">Hi 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamdidamar&label=Profile%20views&color=0e75b6&style=flat" alt="hamdidamar" /> </p>
-
-- 📫 How to reach me **hamdi.damar@hotmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
